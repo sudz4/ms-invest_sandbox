@@ -1,0 +1,4 @@
+Symbol,Description,Pre-market Change %,Pre-market Gap %,Market capitalization,Price,Pre-market Open,Industry,Sector,Exchange,Float shares outstanding,Average Volume 10 days,Average Volume 30 days,Average Volume 90 days,marketCapType
+AAPL,Apple Inc.,,,3555029948078.0,,,ELECTRONIC COMPUTERS,,XNAS,15115820000,42544509.8,41092703.233333334,,Mega
+GOOGL,Alphabet Inc. Class A Common Stock,,,2070626355000.0,,,"SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",,XNAS,5843000000,28070720.5,26702922.533333335,,Mega
+MSFT,Microsoft Corp,,,,,,SERVICES-PREPACKAGED SOFTWARE,,XNAS,7433040000,21682961.0,20546472.833333332,,Micro
